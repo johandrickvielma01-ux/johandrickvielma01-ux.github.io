@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stickergo.app",
+      "sha256_cert_fingerprints": [
+        "92:15:64:D5:0B:12:5F:C1:DF:BE:22:09:BE:47:5E:D2:17:2A:DF:8B:E7:F4:72:53:2F:21:28:19:71:5D:3E:8C"
+      ]
+    }
+  }
+]
